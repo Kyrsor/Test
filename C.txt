@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modified point 21
+=======
+Modified point 19
+>>>>>>> master
